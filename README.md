@@ -587,6 +587,7 @@ A more realistic example for an income statement could be:
 
 A more realistic balance sheet might look like this:
 
+
 | Assets                         | amount        |   | Liabilities and Owners' Equity | amount   |
 | ------------------------------ |:-------------:| -:| ------------------------------ |:--------:|
 | ***Assets***                   |               |   | ***Liabilities***              |          |
@@ -603,6 +604,7 @@ A more realistic balance sheet might look like this:
 | .                              |               |   |                                | ...      |
 | .                              | ...           |   |                                | ...      |
 
+.
 
 ***uncertanity of financial statements***
 
