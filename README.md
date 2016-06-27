@@ -541,7 +541,7 @@ balance sheet:
 | .                              | = $307   |
 | ***Liabilities***              |          |
 | Accounts Payable               | ($5)     |
-|                                |          |    
+| .                              |          |    
 | ***Owners' equity***           |          |
 | Capital Stock                  | ($2)     |
 | .                              |          | 
@@ -596,21 +596,29 @@ A more realistic example for an income statement could be:
 A more realistic balance sheet might look like this:
 
 
-| Assets                         | amount        | - | Liabilities and Owners' Equity | amount   |
-| ------------------------------ |:-------------:| -:| ------------------------------ |:--------:|
-| ***Assets***                   |               |   | ***Liabilities***              |          |
-| Cash                           |               |   | Accounts Payable               |          |
-| Accounts Receivable            | ...           |   | Accrued expenses payable       | ...      |
-| Inventory                      | ...           |   | Income tax payable             | ...      |
-| Prepaid expenses               | ...           |   | short-term notes payable       | ...      |
-| Property plan and equipment    | ...           |   | long-term notes payable        | ...      |
-| accumulated Deprecation        | ...           |   |                                |          |
-| Intangible assets              |               |   |                                |          |
-| .                              |               |   | ***Stockholder's equity***     |          |
-| .                              |               |   | Capital stock                  | ...      |
-| .                              |               |   | retained earnings              | ...      |
-| .                              |               |   |                                | ...      |
-| .                              | ...           |   |                                | ...      |
+| balance sheet                  | amount        | 
+| ------------------------------ |:-------------:| 
+| ***Assets***                   |               |  
+| Cash                           |               |
+| Accounts Receivable            | ...           |
+| Inventory                      | ...           |
+| Prepaid expenses               | ...           |
+| Property plan and equipment    | ...           |
+| accumulated Deprecation        | ...           |
+| Intangible assets              |               |
+| .                              | ...           |
+| ***Liabilities***              |               |
+| Accounts Payable               |               |
+| Accrued expenses payable       | ...           |
+| Income tax payable             | ...           |
+| short-term notes payable       | ...           |
+| long-term notes payable        | ...           |
+| .                              | ...           |
+| ***Stockholder's equity***     |               |
+| Capital stock                  | ...           |
+| retained earnings              | ...           |
+| .                              |               |
+| .                              | ...           |
 
 .
 
