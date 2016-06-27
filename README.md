@@ -529,16 +529,24 @@ But the company could be out of cash.
 
 balance sheet:
 
-| Assets                         | amount        | - | Liabilities and Owners' Equity | amount   |
-| ------------------------------ |:-------------:| -:| ------------------------------ |:--------:|
-| ***Assets***                   |               |   | ***Liabilities***              |          |
-| Cash                           | $5            |   | Accounts Payable               | $5       |
-| Accounts Receivable            | $75           |   |                                |          |
-| Inventory                      | $225          |   |                                |          |
-| ***Assets (non-current)***     |               |   | ***Owners' equity***           |          |
-| Tools and equipment            | $2            |   | Capital Stock                  | $2       |
-| .                              |               |   |                                |          |
-| .                              | $307          |   |                                | $7       |
+| balance sheet                  | amount   |
+| ------------------------------ |:--------:|
+| ***Assets***                   |          |
+| Cash                           | $5       |
+| Accounts Receivable            | $75      |
+| Inventory                      | $225     |
+| ***Assets (non-current)***     |          |
+| Tools and equipment            | $2       |
+| .                              |          |
+| .                              | = $307   |
+| ***Liabilities***              |          |
+| Accounts Payable               | ($5)     |
+|                                |          |    
+| ***Owners' equity***           |          |
+| Capital Stock                  | ($2)     |
+| .                              |          | 
+| .                              | = ($7)   |
+| sum                            | $300     |
 
 which lead to a balance sheet of $300 of virtual balance
 
