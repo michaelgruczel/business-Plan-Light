@@ -529,7 +529,7 @@ But the company could be out of cash.
 
 balance sheet:
 
-| Assets                         | amount        |   | Liabilities and Owners' Equity | amount   |
+| Assets                         | amount        | . | Liabilities and Owners' Equity | amount   |
 | ------------------------------ |:-------------:| -:| ------------------------------ |:--------:|
 | ***Assets***                   |               |   | ***Liabilities***              |          |
 | Cash                           | $5            |   | Accounts Payable               | $5       |
@@ -588,14 +588,10 @@ A more realistic example for an income statement could be:
 A more realistic balance sheet might look like this:
 
 
-| Assets                         | amount        |   | Liabilities and Owners' Equity | amount   |
+| Assets                         | amount        | . | Liabilities and Owners' Equity | amount   |
 | ------------------------------ |:-------------:| -:| ------------------------------ |:--------:|
 | ***Assets***                   |               |   | ***Liabilities***              |          |
 | Cash                           |               |   | Accounts Payable               |          |
-
-
-
-
 | Accounts Receivable            | ...           |   | Accrued expenses payable       | ...      |
 | Inventory                      | ...           |   | Income tax payable             | ...      |
 | Prepaid expenses               | ...           |   | short-term notes payable       | ...      |
